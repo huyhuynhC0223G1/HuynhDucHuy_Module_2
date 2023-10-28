@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04c0b207-2343-48c8-b647-c86b5e4be42a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../thuat_toan/Bai1KiemTraTanSoXuatHien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuat_toan/Bai2SoLuongKiTuChung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuat_toan/Bai3MangDep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuat_toan/Bai4SuaKiTu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuat_toan/Bai5SapXep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuat_toan/Bai6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuat_toan/Bai7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/booking.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/booking.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/contract.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/contract.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/customer.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/customer.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/house.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/house.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/room.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/room.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/villa.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/villa.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Booking.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/Booking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/FacilityRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/repository/FacilityRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/IFacilityRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/repository/IFacilityRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/ContactService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/ContactService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/FacilityService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/FacilityService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ultils/ReadAndWriteFileBooking.java" beforeDir="false" afterPath="$PROJECT_DIR$/ultils/ReadAndWriteFileBooking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ultils/ReadAndWriteFileContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/ultils/ReadAndWriteFileContract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ultils/ReadAndWriteFileHouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/ultils/ReadAndWriteFileHouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ultils/ReadAndWriteFileRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/ultils/ReadAndWriteFileRoom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ultils/ReadAndWriteFileVilla.java" beforeDir="false" afterPath="$PROJECT_DIR$/ultils/ReadAndWriteFileVilla.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss1_intrudoction_java/bai_tap/BaiTap3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ss1_intrudoction_java/bai_tap/BaiTap3.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2S99fXY1zwK0X7ftv6dL8xPgL8z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Codegym/module_2/src/ss2_vong_lap_array/bai_1/bai_tap",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04c0b207-2343-48c8-b647-c86b5e4be42a" name="Changes" comment="" />
+      <created>1688548032218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688548032218</updated>
+      <workItem from="1688548033343" duration="290000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
